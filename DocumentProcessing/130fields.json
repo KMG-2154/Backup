@@ -1,0 +1,4920 @@
+ [
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcordForm",
+          "FieldName": "Acord Form",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcordVersion",
+          "FieldName": "Acord Version",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcordFormDate_1_A",
+          "FieldName": "Date",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyName_2_A",
+          "FieldName": "Agency Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyAddress_3_A",
+          "FieldName": "Agency Address Line1",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyAddress_4_A",
+          "FieldName": "Agency Address Line2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ProducerName",
+          "FieldName": "Producer Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.CSRepresentativeName_1903_A",
+          "FieldName": "CSRepresentative Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyOfficePhoneNumber_167",
+          "FieldName": "Agency Office Phone Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyMobilePhone_87",
+          "FieldName": "Agency Mobile Phone",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyFax_98",
+          "FieldName": "Agency Fax",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyEMailAddress_140_A",
+          "FieldName": "Agency EMail Address",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyCode_108_A",
+          "FieldName": "Agency Code",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencySubCode_109_A",
+          "FieldName": "Agency Sub Code",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AgencyCustomerID_0",
+          "FieldName": "Agency Customer ID",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Company_14_A",
+          "FieldName": "Company",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Underwriter_491_A",
+          "FieldName": "Underwriter",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ApplicantName_8_A",
+          "FieldName": "Applicant Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ApplicantOfficePhoneNumber_121_A",
+          "FieldName": "Applicant Office Phone Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ApplicantMobilePhone",
+          "FieldName": "Applicant Mobile Phone",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.MailingAddress_9_A",
+          "FieldName": "Mailing Address Line1",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.MailingAddress_10_A",
+          "FieldName": "Mailing Address Line2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ApplicantEmailAddress",
+          "FieldName": "Applicant Email Address",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WebsiteAddress",
+          "FieldName": "Website Address",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.YearInBusiness_1905_A",
+          "FieldName": "Year In Business",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.SIC_1906_A",
+          "FieldName": "SIC",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.NAICS",
+          "FieldName": "NAICS",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.SoleProprietor_908_A",
+          "FieldName": "Sole Proprietor",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Corporation_528_A",
+          "FieldName": "Corporation",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LLC_532_A",
+          "FieldName": "LLC",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Trust_1909_A",
+          "FieldName": "Trust",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.UnincorporationAssociation_15281_A",
+          "FieldName": "Unincorporated Association",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Partnership_527_A",
+          "FieldName": "Partnership",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.SubchapterSCorp_530_A",
+          "FieldName": "Subchapter Corp",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.JointVenture_529_A",
+          "FieldName": "Joint Venture",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Other",
+          "FieldName": "Other",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.FederalEmployeeIDNumber_355_A",
+          "FieldName": "Federal Employee IDNumber",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.CreditBureauName",
+          "FieldName": "Credit Bureau Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IDNumber",
+          "FieldName": "IDNumber",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.NCCIRiskIDNumber_1910_A",
+          "FieldName": "NCCIRisk IDNumber",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateEmployerRegistrationNumber_1911_A",
+          "FieldName": "State Employer Registration Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StatusOfSubmission_Quote_512_A",
+          "FieldName": "Status Of Submission Quote",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateOfSubmission_IssuePolicy_515_A",
+          "FieldName": "Status Of Submission Issue Policy",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StatusOfSubmission_Bound_513_A",
+          "FieldName": "Status Of Submission Bound",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StatusOfSubmission_AssignedRisk_514_A",
+          "FieldName": "Status Of Submission Assigned Risk",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.BillingPlan_AgencyBill_164_A",
+          "FieldName": "Billing Plan Agency Bill",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.BillingPlan_DirectBill_163_A",
+          "FieldName": "Billing Plan Direct Bill",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PaymentPlan_Annual_1200_A",
+          "FieldName": "Payment Plan Annual",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PaymentPlan_SemiAnnual_1201_A",
+          "FieldName": "Payment Plan Semi Annual",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PaymentPlan_Quarterly_1203_A",
+          "FieldName": "Payment Plan Quarterly",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PaymentPlan_Quarterly%Down_1902_A",
+          "FieldName": "Payment Plan Quarterly Down",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PaymentPlan_ETPayments1_1202_A",
+          "FieldName": "Payment Plan ETPayments",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PaymentPlan_ETPayments2",
+          "FieldName": "Payment Plan ETPayments Type",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Audit_AtExpiration_1897_A",
+          "FieldName": "Audit At Expiration",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Audit_SemiAnnual_1898_A",
+          "FieldName": "Audit Semi Annual",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Audit_Quarterly_1899_A",
+          "FieldName": "Audit Quarterly",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Audit_Monthly_1900_A",
+          "FieldName": "Audit Monthly",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Audit_Yearly_1900_A",
+          "FieldName": "Audit Other",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Audit_Other_Type_1900_A",
+          "FieldName": "Audit Other Type",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LocationNumber_1185_A",
+          "FieldName": "Location1 Location Number A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.HighestFloor",
+          "FieldName": "Highest Floor A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Street1_1186_A",
+          "FieldName": "Location Address A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LocationNumber_1185_B",
+          "FieldName": "Location2 Location Number B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.HighestFloor_B",
+          "FieldName": "Highest Floor B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Street1_1186_B",
+          "FieldName": "Location Address B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LocationNumber_1185_C",
+          "FieldName": "Location3 Location Number C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.HighestFloor_C",
+          "FieldName": "Highest Floor C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Street1_1186_C",
+          "FieldName": "Location Address C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.EffectiveDate_306_A",
+          "FieldName": "Policy Information Effective Date A",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ExpiryDate_162_A",
+          "FieldName": "Policy Information Expiry Date A",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.NormalAnniversaryRatingRate",
+          "FieldName": "Normal Anniversary Rating Date",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Participating_1914_A",
+          "FieldName": "Policy Information Participating A",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.NonParticipating_1915_A",
+          "FieldName": "Policy Information Non Participating A",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.RetroPlan_19",
+          "FieldName": "Policy Information Retro Plan",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_A",
+          "FieldName": "WCState A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_B",
+          "FieldName": "WCState B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_C",
+          "FieldName": "WCState C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_D",
+          "FieldName": "WCState D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_E",
+          "FieldName": "WCState E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_F",
+          "FieldName": "WCState F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_G",
+          "FieldName": "WCState G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_H",
+          "FieldName": "WCState H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_I",
+          "FieldName": "WCState I",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCState_1917_J",
+          "FieldName": "WCState J",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.EmployerLiabilityEachAccident_88_A",
+          "FieldName": "Employer Liability Each Accident A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.EmployerLiabilityDiseasePolicyLimit_90_A",
+          "FieldName": "Employer Liability Disease Policy Limit A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.EmployerLiabilityDiseaseEachEmployee_89_A",
+          "FieldName": "Employer Liability Disease Each Employee A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_A",
+          "FieldName": "WCStates 1 A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_B",
+          "FieldName": "WCStates 1 B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_C",
+          "FieldName": "WCStates 1 C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_D",
+          "FieldName": "WCStates 1 D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_E",
+          "FieldName": "WCStates 1 E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_F",
+          "FieldName": "WCStates 1 F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_G",
+          "FieldName": "WCStates 1 G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_H",
+          "FieldName": "WCStates 1 H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_I",
+          "FieldName": "WCStates 1 I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.WCStates_1918_J",
+          "FieldName": "WCStates 1 J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.DeductibleMedical",
+          "FieldName": "Deductible Medical",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.DeductibleIndemnity",
+          "FieldName": "Deductible Indemnity",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Deductible_Other1",
+          "FieldName": "Deductible Other1",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Deductible_Other2",
+          "FieldName": "Deductible Other2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Amount(NAinWI)",
+          "FieldName": "Amount( N/ A In WI)",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.OtherCoverages_USL&H_1924_A",
+          "FieldName": "Other Coverages U. S. L& H A",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.OtherCoverages_ManagedCareOption_1925_A",
+          "FieldName": "Other Coverages Managed Care Option A",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.OtherCoverages_VoluntaryComp_1925_A",
+          "FieldName": "Other Coverages Voluntary Comp A",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.OtherCoverages_ForeignCOV_1927_A",
+          "FieldName": "Other Coverages Foreign COV A",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Other_Coverages_1",
+          "FieldName": "Other Coverages 1",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Other_Coverages_1A",
+          "FieldName": "Other Coverages 1 A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Other_Coverages_2",
+          "FieldName": "Other Coverages 2",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Other_Covergaes_2A",
+          "FieldName": "Other Covergaes 2 A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PolicyInformationDividendPlanSafetyGroup",
+          "FieldName": "Policy Information Dividend Plan Safety Group",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PolicyInformationAdditionalCompanyInformation",
+          "FieldName": "Policy Information Additional Company Information",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PolicyInformationSpecifyAdditionalCoverages",
+          "FieldName": "Policy Information Specify Additional Coverages",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.TotalEstimatedAnnualPremiumAllStates",
+          "FieldName": "Total Estimated Annual Premium All States",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.TotalMinimumPremiumAllStates",
+          "FieldName": "Total Minimum Premium All States",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.TotalDepositPremiumAllStates",
+          "FieldName": "Total Deposit Premium All States",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.InspectionName_536_A",
+          "FieldName": "Inspection Name A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.InspectionOfficePhoneNumber_537_A",
+          "FieldName": "Inspection Office Phone Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.InspectionMobilePhone_537_A",
+          "FieldName": "Inspection Mobile Phone A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.InspectionEmail_538_A",
+          "FieldName": "Inspection Email A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcctngRecord_539_A",
+          "FieldName": "Acctng Record Name A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcctngRecordOfficePhoneNumber_540_A",
+          "FieldName": "Acctng Record Office Phone Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcctngRecordMobilePhone_541_A",
+          "FieldName": "Acctng Record Mobile Phone A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.AcctngRecordEmail_542_A",
+          "FieldName": "Acctng Record Email A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ClaimsInfo_543_A",
+          "FieldName": "Claims Info Name A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ClaimsInfoPhoneNumber_544_A",
+          "FieldName": "Claims Info Phone Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ClaimsInfoMobilePhone_545_A",
+          "FieldName": "Claims Info Mobile Phone A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ClaimsInfoEmail_546_A",
+          "FieldName": "Claims Info Email A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcState_1942_A",
+          "FieldName": "Inc Exc State A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcLOC#_1943_A",
+          "FieldName": "Inc Exc LOC A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcName_1944_A",
+          "FieldName": "Inc Exc Name A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDOB_1945_A",
+          "FieldName": "Inc Exc DOB A",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcRelationship_1946_A",
+          "FieldName": "Inc Exc Relationship A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcOwnership%_1947_A",
+          "FieldName": "Inc Exc Ownership A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDuties_1948_A",
+          "FieldName": "Inc Exc Duties A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExc_IncExc_1949_A",
+          "FieldName": "Inc Exc Inc Exc A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassCode_1950_A",
+          "FieldName": "Inc Exc Class Code A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassRemuneration_1951_A",
+          "FieldName": "Inc Exc Class Remuneration A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcState_1942_B",
+          "FieldName": "Inc Exc State B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcLOC#_1943_B",
+          "FieldName": "Inc Exc LOC B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcName_1944_B",
+          "FieldName": "Inc Exc Name B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDOB_1945_B",
+          "FieldName": "Inc Exc DOB B",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcRelationship_1946_B",
+          "FieldName": "Inc Exc Relationship B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcOwnership%_1947_B",
+          "FieldName": "Inc Exc Ownership B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDuties_1948_B",
+          "FieldName": "Inc Exc Duties B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExc_IncExc_1949_B",
+          "FieldName": "Inc Exc Inc Exc B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassCode_1950_B",
+          "FieldName": "Inc Exc Class Code B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassRemuneration_1951_B",
+          "FieldName": "Inc Exc Class Remuneration B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcState_1942_C",
+          "FieldName": "Inc Exc State C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcLOC#_1943_C",
+          "FieldName": "Inc Exc LOC C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcName_1944_C",
+          "FieldName": "Inc Exc Name C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDOB_1945_C",
+          "FieldName": "Inc Exc DOB C",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcRelationship_1946_C",
+          "FieldName": "Inc Exc Relationship C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcOwnership%_1947_C",
+          "FieldName": "Inc Exc Ownership C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDuties_1948_C",
+          "FieldName": "Inc Exc Duties C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExc_IncExc_1949_C",
+          "FieldName": "Inc Exc Inc Exc C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassCode_1950_C",
+          "FieldName": "Inc Exc Class Code C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassRemuneration_1951_C",
+          "FieldName": "Inc Exc Class Remuneration C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcState_1942_D",
+          "FieldName": "Inc Exc State D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcLOC#_1943_D",
+          "FieldName": "Inc Exc LOC D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcName_1944_D",
+          "FieldName": "Inc Exc Name D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDOB_1945_D",
+          "FieldName": "Inc Exc DOB D",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcRelationship_1946_D",
+          "FieldName": "Inc Exc Relationship D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcOwnership%_1947_D",
+          "FieldName": "Inc Exc Ownership D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcDuties_1948_D",
+          "FieldName": "Inc Exc Duties D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExc_IncExc_1949_D",
+          "FieldName": "Inc Exc Inc Exc D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassCode_1950_D",
+          "FieldName": "Inc Exc Class Code D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.IncExcClassRemuneration_1951_D",
+          "FieldName": "Inc Exc Class Remuneration D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSheetNumber_1963_A",
+          "FieldName": "State Rating Sheet Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.RatingInformationStateName_1962_A",
+          "FieldName": "Rating Information State Name A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_A",
+          "FieldName": "State Rating Location Number A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_A",
+          "FieldName": "State Rating Class Code A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_A",
+          "FieldName": "State Rating DESCRCode A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_A",
+          "FieldName": "State Rating Categories A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_A",
+          "FieldName": "State Rating Full Time Employee A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_A",
+          "FieldName": "State Rating Part Time Employee A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_A",
+          "FieldName": "State Rating SIC A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_B",
+          "FieldName": "State Rating Location Number B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_B",
+          "FieldName": "State Rating Class Code B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_B",
+          "FieldName": "State Rating DESCRCode B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_B",
+          "FieldName": "State Rating Categories B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_B",
+          "FieldName": "State Rating Full Time Employee B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_B",
+          "FieldName": "State Rating Part Time Employee B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_B",
+          "FieldName": "State Rating SIC B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_C",
+          "FieldName": "State Rating Location Number C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_C",
+          "FieldName": "State Rating Class Code C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_C",
+          "FieldName": "State Rating DESCRCode C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_C",
+          "FieldName": "State Rating Categories C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_C",
+          "FieldName": "State Rating Full Time Employee C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_C",
+          "FieldName": "State Rating Part Time Employee C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_C",
+          "FieldName": "State Rating SIC C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_D",
+          "FieldName": "State Rating Location Number D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_D",
+          "FieldName": "State Rating Class Code D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_D",
+          "FieldName": "State Rating DESCRCode D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_D",
+          "FieldName": "State Rating Categories D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_D",
+          "FieldName": "State Rating Full Time Employee D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_D",
+          "FieldName": "State Rating Part Time Employee D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_D",
+          "FieldName": "State Rating SIC D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_E",
+          "FieldName": "State Rating Location Number E",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_E",
+          "FieldName": "State Rating Class Code E",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_E",
+          "FieldName": "State Rating DESCRCode E",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_E",
+          "FieldName": "State Rating Categories E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_E",
+          "FieldName": "State Rating Full Time Employee E",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_E",
+          "FieldName": "State Rating Part Time Employee E",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_E",
+          "FieldName": "State Rating SIC E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_F",
+          "FieldName": "State Rating Location Number F",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_F",
+          "FieldName": "State Rating Class Code F",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_F",
+          "FieldName": "State Rating DESCRCode F",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_F",
+          "FieldName": "State Rating Categories F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_F",
+          "FieldName": "State Rating Full Time Employee F",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_F",
+          "FieldName": "State Rating Part Time Employee F",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_F",
+          "FieldName": "State Rating SIC F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_G",
+          "FieldName": "State Rating Location Number G",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_G",
+          "FieldName": "State Rating Class Code G",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_G",
+          "FieldName": "State Rating DESCRCode G",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_G",
+          "FieldName": "State Rating Categories G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_G",
+          "FieldName": "State Rating Full Time Employee G",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_G",
+          "FieldName": "State Rating Part Time Employee G",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_G",
+          "FieldName": "State Rating SIC G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_H",
+          "FieldName": "State Rating Location Number H",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_H",
+          "FieldName": "State Rating Class Code H",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_H",
+          "FieldName": "State Rating DESCRCode H",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_H",
+          "FieldName": "State Rating Categories H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_H",
+          "FieldName": "State Rating Full Time Employee H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_H",
+          "FieldName": "State Rating Part Time Employee H",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_H",
+          "FieldName": "State Rating SIC H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_I",
+          "FieldName": "State Rating Location Number I",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_I",
+          "FieldName": "State Rating Class Code I",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_I",
+          "FieldName": "State Rating DESCRCode I",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_I",
+          "FieldName": "State Rating Categories I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_I",
+          "FieldName": "State Rating Full Time Employee I",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_I",
+          "FieldName": "State Rating Part Time Employee I",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_I",
+          "FieldName": "State Rating SIC I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_J",
+          "FieldName": "State Rating Location Number J",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_J",
+          "FieldName": "State Rating Class Code J",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_J",
+          "FieldName": "State Rating DESCRCode J",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_J",
+          "FieldName": "State Rating Categories J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_J",
+          "FieldName": "State Rating Full Time Employee J",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_J",
+          "FieldName": "State Rating Part Time Employee J",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_J",
+          "FieldName": "State Rating SIC J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_K",
+          "FieldName": "State Rating Location Number K",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_K",
+          "FieldName": "State Rating Class Code K",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_K",
+          "FieldName": "State Rating DESCRCode K",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_K",
+          "FieldName": "State Rating Categories K",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_K",
+          "FieldName": "State Rating Full Time Employee K",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_K",
+          "FieldName": "State Rating Part Time Employee K",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_K",
+          "FieldName": "State Rating SIC K",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_L",
+          "FieldName": "State Rating Location Number L",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_L",
+          "FieldName": "State Rating Class Code L",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_L",
+          "FieldName": "State Rating DESCRCode L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_L",
+          "FieldName": "State Rating Categories L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_L",
+          "FieldName": "State Rating Full Time Employee L",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_L",
+          "FieldName": "State Rating Part Time Employee L",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_L",
+          "FieldName": "State Rating SIC L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_M",
+          "FieldName": "State Rating Location Number M",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_M",
+          "FieldName": "State Rating Class Code M",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_M",
+          "FieldName": "State Rating DESCRCode M",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_M",
+          "FieldName": "State Rating Categories M",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_M",
+          "FieldName": "State Rating Full Time Employee M",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_M",
+          "FieldName": "State Rating Part Time Employee M",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_M",
+          "FieldName": "State Rating SIC M",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingLocationNumber_1998_N",
+          "FieldName": "State Rating Location Number N",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingClassCode_1952_N",
+          "FieldName": "State Rating Class Code N",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingDESCRCode_1953_N",
+          "FieldName": "State Rating DESCRCode N",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingCategories_1954_N",
+          "FieldName": "State Rating Categories N",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingPartTimeEmployee_1956_N",
+          "FieldName": "State Rating Part Time Employee N",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingFullTimeEmployee_1955_N",
+          "FieldName": "State Rating Full Time Employee N",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingSIC_1957_N",
+          "FieldName": "State Rating SIC N",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_A",
+          "FieldName": "State Rating NAICS A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_B",
+          "FieldName": "State Rating NAICS B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_C",
+          "FieldName": "State Rating NAICS C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_D",
+          "FieldName": "State Rating NAICS D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_E",
+          "FieldName": "State Rating NAICS E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_F",
+          "FieldName": "State Rating NAICS F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_G",
+          "FieldName": "State Rating NAICS G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_H",
+          "FieldName": "State Rating NAICS H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_I",
+          "FieldName": "State Rating NAICS I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_J",
+          "FieldName": "State Rating NAICS J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_K",
+          "FieldName": "State Rating NAICS K",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_L",
+          "FieldName": "State Rating NAICS L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_M",
+          "FieldName": "State Rating NAICS M",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingNAICS_1958_N",
+          "FieldName": "State Rating NAICS N",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_A",
+          "FieldName": "State Rating Estimated Annual Remuneration A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_B",
+          "FieldName": "State Rating Estimated Annual Remuneration B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_C",
+          "FieldName": "State Rating Estimated Annual Remuneration C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_D",
+          "FieldName": "State Rating Estimated Annual Remuneration D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_E",
+          "FieldName": "State Rating Estimated Annual Remuneration E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_F",
+          "FieldName": "State Rating Estimated Annual Remuneration F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_G",
+          "FieldName": "State Rating Estimated Annual Remuneration G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_H",
+          "FieldName": "State Rating Estimated Annual Remuneration H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_I",
+          "FieldName": "State Rating Estimated Annual Remuneration I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_J",
+          "FieldName": "State Rating Estimated Annual Remuneration J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_K",
+          "FieldName": "State Rating Estimated Annual Remuneration K",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_L",
+          "FieldName": "State Rating Estimated Annual Remuneration L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_M",
+          "FieldName": "State Rating Estimated Annual Remuneration M",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualRemuneration_1959_N",
+          "FieldName": "State Rating Estimated Annual Remuneration N",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_A",
+          "FieldName": "State Rating Rate A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_B",
+          "FieldName": "State Rating Rate B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_C",
+          "FieldName": "State Rating Rate C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_D",
+          "FieldName": "State Rating Rate D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_E",
+          "FieldName": "State Rating Rate E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_F",
+          "FieldName": "State Rating Rate F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_G",
+          "FieldName": "State Rating Rate G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_H",
+          "FieldName": "State Rating Rate H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_I",
+          "FieldName": "State Rating Rate I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_J",
+          "FieldName": "State Rating Rate J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_K",
+          "FieldName": "State Rating Rate K",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_L",
+          "FieldName": "State Rating Rate L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_M",
+          "FieldName": "State Rating Rate M",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingRate_1960_N",
+          "FieldName": "State Rating Rate N",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_A",
+          "FieldName": "State Rating Estimated Annual Manual Premium A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_B",
+          "FieldName": "State Rating Estimated Annual Manual Premium B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_C",
+          "FieldName": "State Rating Estimated Annual Manual Premium C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_D",
+          "FieldName": "State Rating Estimated Annual Manual Premium D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_E",
+          "FieldName": "State Rating Estimated Annual Manual Premium E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_F",
+          "FieldName": "State Rating Estimated Annual Manual Premium F",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_G",
+          "FieldName": "State Rating Estimated Annual Manual Premium G",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_H",
+          "FieldName": "State Rating Estimated Annual Manual Premium H",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_I",
+          "FieldName": "State Rating Estimated Annual Manual Premium I",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_J",
+          "FieldName": "State Rating Estimated Annual Manual Premium J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_K",
+          "FieldName": "State Rating Estimated Annual Manual Premium K",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_L",
+          "FieldName": "State Rating Estimated Annual Manual Premium L",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_M",
+          "FieldName": "State Rating Estimated Annual Manual Premium M",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.StateRatingEstimatedAnnualManualPremium_1961_N",
+          "FieldName": "State Rating Estimated Annual Manual Premium N",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumIncreasedLimits",
+          "FieldName": "Premium Increased Limits A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumScheduleRatingFactor_1981_A",
+          "FieldName": "Premium Schedule Rating Factor A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumCCPAPFactor_1981_A",
+          "FieldName": "Premium CCPAPFactor A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumDeductible",
+          "FieldName": "Premium Deductible A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumStandardPremium_1984_A",
+          "FieldName": "Premium Standard Premium A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumExperienceModificationFactor_1975_A",
+          "FieldName": "Premium Experience Modification Factor A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumOther1",
+          "FieldName": "Premium Other Factor 1",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumOther1Name",
+          "FieldName": "Premium Other Factor 1 Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumOtherFactor2",
+          "FieldName": "Premium Other Factor 2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumOtherFactor2Name",
+          "FieldName": "Premium Other Factor 2 Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumDiscountFactor_1986_A",
+          "FieldName": "Premium Discount Factor A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumExpenseConstant",
+          "FieldName": "Premium Expense Constant",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumAssignedRiskSurcharge",
+          "FieldName": "Premium Assigned Risk Surcharge",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumTaxesAssesments",
+          "FieldName": "Premium Taxes Assesments",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumARAPFactor_1979_A",
+          "FieldName": "Premium ARAPFactor A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_1",
+          "FieldName": "Factor Premium 1",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_2",
+          "FieldName": "Factor Premium 2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_3",
+          "FieldName": "Factor Premium 3",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_4",
+          "FieldName": "Factor Premium 4",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_5",
+          "FieldName": "Factor Premium 5",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_6",
+          "FieldName": "Factor Premium 6",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_7",
+          "FieldName": "Factor Premium 7",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_8",
+          "FieldName": "Factor Premium 8",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_9",
+          "FieldName": "Factor Premium 9",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_10",
+          "FieldName": "Factor Premium 10",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#cb75c1"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "1"
+            }
+          ]
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Factor_Premium_11",
+          "FieldName": "Factor Premium 11",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#4ac3d6"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "q"
+            }
+          ]
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.TotalEstimatedAnnualPremium_1990_A",
+          "FieldName": "Total Estimated Annual Premium A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.MinimumPremium_1991_A",
+          "FieldName": "Minimum Premium A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.DepositPremium_1992_A",
+          "FieldName": "Deposit Premium A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.PremiumRemarks_19_A",
+          "FieldName": "Premium Remarks A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryYear_1996_A",
+          "FieldName": "Loss History Year A",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryYear_1996_B",
+          "FieldName": "Loss History Year B",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryYear_1996_C",
+          "FieldName": "Loss History Year C",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryYear_1996_D",
+          "FieldName": "Loss History Year D",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryYear_1996_E",
+          "FieldName": "Loss History Year E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryCarrier_326_A",
+          "FieldName": "Loss History Carrier A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryCarrier_326_B",
+          "FieldName": "Loss History Carrier B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryCarrier_326_C",
+          "FieldName": "Loss History Carrier C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryCarrier_326_D",
+          "FieldName": "Loss History Carrier D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryCarrier_326_E",
+          "FieldName": "Loss History Carrier E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryPolicyNumber_329_A",
+          "FieldName": "Loss History Policy Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryPolicyNumber_329_B",
+          "FieldName": "Loss History Policy Number B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryPolicyNumber_329_C",
+          "FieldName": "Loss History Policy Number C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryPolicyNumber_329_D",
+          "FieldName": "Loss History Policy Number D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryPolicyNumber_329_E",
+          "FieldName": "Loss History Policy Number E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAnnualNumber_593_A",
+          "FieldName": "Loss History Annual Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAnnualNumber_593_B",
+          "FieldName": "Loss History Annual Number B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAnnualNumber_593_C",
+          "FieldName": "Loss History Annual Number C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAnnualNumber_593_D",
+          "FieldName": "Loss History Annual Number D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAnnualNumber_593_E",
+          "FieldName": "Loss History Annual Number E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryMod_592_A",
+          "FieldName": "Loss History Mod A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryMod_592_B",
+          "FieldName": "Loss History Mod B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryMod_592_C",
+          "FieldName": "Loss History Mod C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryMod_592_D",
+          "FieldName": "Loss History Mod D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryMod_592_E",
+          "FieldName": "Loss History Mod E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryClaimsNumber_1995_A",
+          "FieldName": "Loss History Claims Number A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryClaimsNumber_1995_B",
+          "FieldName": "Loss History Claims Number B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryClaimsNumber_1995_C",
+          "FieldName": "Loss History Claims Number C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryClaimsNumber_1995_D",
+          "FieldName": "Loss History Claims Number D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryClaimsNumber_1995_E",
+          "FieldName": "Loss History Claims Number E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAmountPaid_606_A",
+          "FieldName": "Loss History Amount Paid A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAmountPaid_606_B",
+          "FieldName": "Loss History Amount Paid B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAmountPaid_606_C",
+          "FieldName": "Loss History Amount Paid C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAmountPaid_606_D",
+          "FieldName": "Loss History Amount Paid D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryAmountPaid_606_E",
+          "FieldName": "Loss History Amount Paid E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryReserve_607_A",
+          "FieldName": "Loss History Reserve A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryReserve_607_B",
+          "FieldName": "Loss History Reserve B",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryReserve_607_C",
+          "FieldName": "Loss History Reserve C",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryReserve_607_D",
+          "FieldName": "Loss History Reserve D",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.LossHistoryReserve_607_E",
+          "FieldName": "Loss History Reserve E",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.NatureOfBusiness_566_A",
+          "FieldName": "Nature Of Business A",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion1_Yes_10927_A",
+          "FieldName": "General Information Question1",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion1Desc_Yes_10927_A",
+          "FieldName": "General Information Question1 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion2_Yes_10928_A",
+          "FieldName": "General Information Question2",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion2Desc_Yes_10927_A",
+          "FieldName": "General Information Question2 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion3_Yes_10929_A",
+          "FieldName": "General Information Question3",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion3Desc_Yes_10927_A",
+          "FieldName": "General Information Question3 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion4_Yes_10930_A",
+          "FieldName": "General Information Question4",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion4Desc_Yes_10927_A",
+          "FieldName": "General Information Question4 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion5_Yes_10931_A",
+          "FieldName": "General Information Question5",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion5Desc_Yes_10927_A",
+          "FieldName": "General Information Question5 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion6_Yes_10932_A",
+          "FieldName": "General Information Question6",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion6Desc_Yes_10927_A",
+          "FieldName": "General Information Question6 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion7_Yes_10933_A",
+          "FieldName": "General Information Question7",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion7Desc_Yes_10927_A",
+          "FieldName": "General Information Question7 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion8_Yes_10934_A",
+          "FieldName": "General Information Question8",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion8Desc_Yes_10927_A",
+          "FieldName": "General Information Question8 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion9_Yes_10935_A",
+          "FieldName": "General Information Question9",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion9Desc_Yes_10927_A",
+          "FieldName": "General Information Question9 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion10_Yes_10936_A",
+          "FieldName": "General Information Question10",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion10Desc_Yes_10937_A",
+          "FieldName": "General Information Question10 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion11_Yes_10937_A",
+          "FieldName": "General Information Question11",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion11_Desc_10949_A",
+          "FieldName": "General Information Question11 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion12_Yes_10938_A",
+          "FieldName": "General Information Question12",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion12_Desc_10949_A",
+          "FieldName": "General Information Question12 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion13_Yes_10939_A",
+          "FieldName": "General Information Question13",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion13_Desc_10949_A",
+          "FieldName": "General Information Question13 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion14_Yes_10940_A",
+          "FieldName": "General Information Question14",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion14_Desc_10949_A",
+          "FieldName": "General Information Question14 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion15_Yes_10941_A",
+          "FieldName": "General Information Question15",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion15_Desc_10949_A",
+          "FieldName": "General Information Question15 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion16_Yes_10942_A",
+          "FieldName": "General Information Question16",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion16_Desc_10949_A",
+          "FieldName": "General Information Question16 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion17_Yes_10943_A",
+          "FieldName": "General Information Question17",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion17_Desc_10949_A",
+          "FieldName": "General Information Question17 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion18_Yes_10944_A",
+          "FieldName": "General Information Question18",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion18_Desc_10949_A",
+          "FieldName": "General Information Question18 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion19_Yes_10945_A",
+          "FieldName": "General Information Question19",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion19_Desc_10949_A",
+          "FieldName": "General Information Question19 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion20_Yes_10946_A",
+          "FieldName": "General Information Question20",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion20_Desc_10949_A",
+          "FieldName": "General Information Question20 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion21_Yes_10947_A",
+          "FieldName": "General Information Question21",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion21_Desc_10949_A",
+          "FieldName": "General Information Question21 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion22_Yes_10948_A",
+          "FieldName": "General Information Question22",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion22_Desc_10949_A",
+          "FieldName": "General Information Question22 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion23_Yes_10949_A",
+          "FieldName": "General Information Question23",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion23_Desc_10949_A",
+          "FieldName": "General Information Question23 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion24_Yes_10950_A",
+          "FieldName": "General Information Question24",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.GeneralInformationQuestion24_Desc_10951_A",
+          "FieldName": "General Information Question24 Desc",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.Date_130",
+          "FieldName": "Signature Date",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.NationalProducerNumber_130",
+          "FieldName": "National Producer Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": []
+        },
+        {
+          "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable",
+          "FieldName": "ItemsTable",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.Locations_Loc#",
+              "FieldName": "Locations Loc#",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.Locations_Address",
+              "FieldName": "Locations Address",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.ContactInfo_Type",
+              "FieldName": "ContactInfo Type",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.ContactInfoName",
+              "FieldName": "Contact Info Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.ContactInfoOfficePhone",
+              "FieldName": "Contact Info Office Phone",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.ContactInfoMobilePhone",
+              "FieldName": "Contact Info Mobile Phone",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualState",
+              "FieldName": "Individual State",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualLoc#",
+              "FieldName": "Individual Loc #",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualName",
+              "FieldName": "Individual Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualDOB",
+              "FieldName": "Individual DOB",
+              "IsMultiValue": false,
+              "Type": "Date",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualTitle",
+              "FieldName": "Individual Title",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualsOwnership",
+              "FieldName": "Individuals Ownership",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualDuties",
+              "FieldName": "Individual Duties",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualIncExc",
+              "FieldName": "Individual Inc/Exc",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.IndividualsREMPayroll",
+              "FieldName": "Individuals REM Payroll",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.WCStates",
+              "FieldName": "WC States",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.EmployerLiability",
+              "FieldName": "Employer Liability",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.OtherStates",
+              "FieldName": "Other States ",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.Deductibles",
+              "FieldName": "Deductibles",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoLOC",
+              "FieldName": "Rating Info LOC",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoCC",
+              "FieldName": "Rating Info CC",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoDC",
+              "FieldName": "Rating Info DC",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoCategory",
+              "FieldName": "Rating Info Category",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoFullTime",
+              "FieldName": "Rating Info Full Time",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoPartTime",
+              "FieldName": "Rating Info Part Time",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoSIC",
+              "FieldName": "Rating Info SIC",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoNAIC",
+              "FieldName": "Rating Info NAIC",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoEARP",
+              "FieldName": "Rating Info EARP",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoESTAP",
+              "FieldName": "Rating Info Rate",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.RatingInfoESTAP_1",
+              "FieldName": "Rating Info ESTAP",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PremiumType1",
+              "FieldName": "Premium Type 1",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PremiumFactor1",
+              "FieldName": "Premium Factor 1",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.FactoredPremium1",
+              "FieldName": "Factored Premium 1",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PremiumType2",
+              "FieldName": "Premium Type 2",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PremiumFactor2",
+              "FieldName": "Premium Factor 2",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.FactoredPremium2",
+              "FieldName": "Factored Premium 2",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoYears",
+              "FieldName": "Prior Carrier Info Years",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoCompanyPolicy",
+              "FieldName": "Prior Carrier Info Company Policy",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoAnnualPremium",
+              "FieldName": "Prior Carrier Info Annual Premium",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoMod",
+              "FieldName": "Prior Carrier Info Mod",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoClaim",
+              "FieldName": "Prior Carrier Info Claim",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoAmountPaid",
+              "FieldName": "Prior Carrier Info Amount Paid",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            },
+            {
+              "FieldId": "WCAcord130.Acord130.NewPDF130.ItemsTable.PriorCarrierInfoAmountReserve",
+              "FieldName": "Prior Carrier Info Amount Reserve",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": []
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#c82b8d"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ]
+        }
+      ]
